@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
 
-  base: '/Society-management-2/',
+  base: '/society-management-frontend-2/',
 
   server: {
     host: true,
